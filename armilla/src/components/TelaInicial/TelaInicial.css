@@ -1,0 +1,11 @@
+body{
+    background-image: url("../../assets/fundoTelaInicial.png");
+    background-size: cover;
+    text-align: center;
+}
+
+img{
+    max-width: 80%;
+    height: auto;
+    margin-top: 70%;
+}
